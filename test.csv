@@ -1,0 +1,7 @@
+transactionid,item,transactiondate,supplier,itemexpiration,lot,lotexpiration,price
+123,shoe,2/4/2023,store,1/1/2024,A647,2/1/2024,9.56
+456,shirt,2/4/2023,shop,1/1/2024,B971,2/1/2024,10.51
+789,snowboard,2/3/2023,wholesaler,1/1/2024,147CA,2/1/2024,99.99
+164,notebook,2/3/2023,wholesaler,1/1/2024,9984Z,2/1/2024,1.99
+897,computer,2/1/2023,online,12/1/2024,E1894F,12/1/2025,1099.99
+917,car,2/1/2023,dealer,1/1/2024,,,15000

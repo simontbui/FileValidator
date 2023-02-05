@@ -1,0 +1,15 @@
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.AssemblyInfo.cs
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\FileValidator\FileValidator\bin\Debug\net6.0\FileValidator.exe
+C:\Users\Simon\source\repos\FileValidator\FileValidator\bin\Debug\net6.0\FileValidator.deps.json
+C:\Users\Simon\source\repos\FileValidator\FileValidator\bin\Debug\net6.0\FileValidator.runtimeconfig.json
+C:\Users\Simon\source\repos\FileValidator\FileValidator\bin\Debug\net6.0\FileValidator.dll
+C:\Users\Simon\source\repos\FileValidator\FileValidator\bin\Debug\net6.0\FileValidator.pdb
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.dll
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\refint\FileValidator.dll
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.pdb
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\FileValidator.genruntimeconfig.cache
+C:\Users\Simon\source\repos\FileValidator\FileValidator\obj\Debug\net6.0\ref\FileValidator.dll
